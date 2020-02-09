@@ -35,3 +35,5 @@
 - Az egyes gyakorlatok az egyes előadások előtt zajlanak le, így előbb fogunk egy adott anyagrésszel gyakorlatban foglalkozni, mint ahogy az az előadáson elhangzik majd.
 - Az előadásra járás kötelező ( kivételt képeznek a katalógus alóli mentességgel rendelkezők és az első hetekben - a koronavírus miatt, dékáni utasításra - **minden egyes hallgató** ).
 - A tárgy elméleti részéből vizsgajegyet kell szerezni, melyet **megajánlott vizsgajeggyel** ki lehet váltani, amelyekről részletesebben az előadő fog beszélni az előadásokon.
+## Elérthetőség
+- e-mail: czegledi.gabor.98@gmail.com
