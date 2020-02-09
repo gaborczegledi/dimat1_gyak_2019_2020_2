@@ -3,6 +3,7 @@
 
 ### Gyakorlati jegy megszerzése
 #### Jelenlét
+- A gyakorlatok 10:15 és 11:45 között kerülnek megtartásra a Déli Épület 4. emeletén, a 202-es teremben ( Déli-4-202 ).
 - A gyakorlatokon való részvétel kötelező, a Hallgatói KövetelményRendszer alapján legfeljebb 3 hiányzás megengedett (kivéve a kivételes, IGAZOLHATÓ orvosi eseteket).
 - A gyakorlatokon való részvétel a Canvas felületen kerül rögzítésre.
 #### Jegyszerzés módja
@@ -17,3 +18,18 @@
 - 55 - 69 pont - közepes   (3)
 - 70 - 84 pont - jó        (4)
 - 85 -    pont - jeles     (5)
+#### Kiszárthelyik (óra eleji számonkérések)
+- A második gyakorlattól kezdődően 10 alkalommal, az óra elején 5 perces kiszárthelyit íratok, melynek témája egy, az előző gyakorlaton vett anyaggal kapcsolatos **gyakorlati** jellegű feladat.
+- A kiszárthelyikre egyenként 0, 1 vagy 2 pont adható, amely a feladat megoldásától és annak helyességétől függ.
+- Az eredmények a Canvas felületén kerülnek rögzítésre.
+- A félév végén ( extra pontok szerzéséért vagy a minimális 8 pont eléréséért ) lesz lehetőség 3 darab kiszárthelyi újraírására.
+- Azt, hogy mely kiszárthelyiket írhatja a hallgató, azt én fogom meghatározni.
+#### Nagyzárthelyik (egy csoportZH és egy évfolyamZH)
+- A félév során két darab (nagy)zárthelyit szükséges megírni.
+- Az első ( csoportos ) zárthelyi várható időpontja a nyolcadik hétre ( március vége - április eleje ) tehető, míg a második zárthelyi évfolyamszintű lesz és a vizsgaidőszak első heteiben kerül megrendezésre.
+#### Szorgalmi feladatok extra pontokért
+- A félév folyamán lehetőség lesz extra pontokat ( legfeljebb 10 pontot ) szerezni szorgalmi feladatok elkészítésébel, melyet a hallgató a félév végi összpontszámához hozzáadhat, amennyiben minden - a jegyszerzéshez szükséges - minimumfeltétel teljesült.
+#### Néhány szó az előadásról és a megajánlott vizsgajegyről
+- Az egyes gyakorlatok az egyes előadások előtt zajlanak le, így előbb fogunk egy adott anyagrésszel gyakorlatban foglalkozni, mint ahogy az az előadáson elhangzik majd.
+- Az előadásra járás kötelező ( kivételt képeznek a katalógus alóli mentességgel rendelkezők és az első hetekben - a koronavírus miatt, dékáni utasításra - **minden egyes hallgató** ).
+- A tárgy elméleti részéből vizsgajegyet kell szerezni, melyet **megajánlott vizsgajeggyel** ki lehet váltani, amelyekről részletesebben az előadő fog beszélni az előadásokon.
