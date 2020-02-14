@@ -17,7 +17,7 @@
 - 40 - 54 pont - elégséges (2)
 - 55 - 69 pont - közepes   (3)
 - 70 - 84 pont - jó        (4)
--   < = 85 pont - jeles     (5)
+- 85-110 pont - jeles     (5)
 #### Kiszárthelyik (óra eleji számonkérések)
 - A második gyakorlattól kezdődően 10 alkalommal, az óra elején 5 perces kiszárthelyit íratok, melynek témája egy, az előző gyakorlaton vett anyaggal kapcsolatos **gyakorlati** jellegű feladat.
 - A kiszárthelyikre egyenként 0, 1 vagy 2 pont adható, amely a feladat megoldásától és annak helyességétől függ.
