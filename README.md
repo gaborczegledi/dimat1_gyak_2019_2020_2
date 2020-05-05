@@ -30,7 +30,7 @@
 #### Szorgalmi feladatok extra pontokért
 - A félév folyamán lehetőség lesz extra pontokat ( legfeljebb 10 pontot ) szerezni szorgalmi feladatok elkészítésébel, melyet a hallgató a félév végi összpontszámához hozzáadhat, amennyiben minden - a jegyszerzéshez szükséges - minimumfeltétel teljesült.
 - Az extra pontok a Canvas felületén is rögzítésre kerülnek.
-#### Néhány szó az előadásról és a megajánlott vizsgajegyről
+#### Néhány szó az előadásról
 - Az egyes gyakorlatok az egyes előadások előtt zajlanak le, így előbb fogunk egy adott anyagrésszel gyakorlatban foglalkozni, mint ahogy az elhangozna az előadáson.
 - Az előadásra járás kötelező ( kivételt képeznek a katalógus alóli mentességgel rendelkezők).
 - A tárgy elméleti részének teljesítéséről az előadó ad majd tájékoztatást.
