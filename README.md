@@ -25,7 +25,7 @@
 - Az eredmények a Canvas felületén kerülnek rögzítésre.
 #### Nagyzárthelyik (egy csoportZH és egy évfolyamZH)
 - A félév során két darab (nagy)zárthelyit szükséges megírni.
-- Az első ( csoportos ) zárthelyi várható időpontja a nyolcadik hétre ( március vége - április eleje ) tehető, míg a második zárthelyi csoportszinten, az utolsó gyakorlaton kerül megrendezésre.
+- Az első ( csoportos ) zárthelyi a hetedik gyakorlat idejére tehető, míg a második zárthelyi csoportszinten, az utolsó gyakorlaton kerül megrendezésre.
 - A zárthelyik pontszámai a Canvas felületén kerülnek rögzítésre.
 #### Szorgalmi feladatok extra pontokért
 - A félév folyamán lehetőség lesz extra pontokat ( legfeljebb 10 pontot ) szerezni szorgalmi feladatok elkészítésébel, melyet a hallgató a félév végi összpontszámához hozzáadhat, amennyiben minden - a jegyszerzéshez szükséges - minimumfeltétel teljesült.
