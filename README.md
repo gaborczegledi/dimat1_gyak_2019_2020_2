@@ -21,7 +21,7 @@
 #### Kiszárthelyik (óra eleji számonkérések)
 - A második gyakorlattól kezdődően 10 alkalommal 5 perces kiszárthelyit íratok, melynek témája egy, az előző gyakorlaton vett anyaggal kapcsolatos **gyakorlati** jellegű feladat.
 - A kiszárthelyikre egyenként 0, 1 vagy 2 pont adható, amely a feladat megoldásától és annak helyességétől függ.
-- Amennyiben részpontszámot ítélek meg, úgy öt tizedtől a pont felfele kerekítésre kerül.
+- Amennyiben tört részpontszámot ítélek meg, úgy öt tizedtől a pont felfele kerekítésre kerül.
 - Az eredmények a Canvas felületén kerülnek rögzítésre.
 #### Nagyzárthelyik (egy csoportZH és egy évfolyamZH)
 - A félév során két darab (nagy)zárthelyit szükséges megírni.
